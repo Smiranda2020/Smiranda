@@ -36,8 +36,21 @@ namespace Seccion4
                 default: Console.WriteLine("El valor es incorrecto");
                     break;
             }
+
+            char vocal = 'e';
+            Console.WriteLine("la letra" + vocal);
+            switch(vocal)
+            {
+                case 'a':
+                case 'e':
+                case 'i':
+                case 'o':
+                case 'u':Console.WriteLine("Es una vocal");
+                    break;
+                default: Console.WriteLine("No es una vocal");
+                    break;
+            }
             Console.ReadLine();
-            
         }
     }
 }
