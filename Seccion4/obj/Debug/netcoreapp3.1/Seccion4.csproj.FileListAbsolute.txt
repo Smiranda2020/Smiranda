@@ -1,0 +1,13 @@
+C:\Users\santiago.miranda\source\repos\Seccion4\bin\Debug\netcoreapp3.1\Seccion4.exe
+C:\Users\santiago.miranda\source\repos\Seccion4\bin\Debug\netcoreapp3.1\Seccion4.deps.json
+C:\Users\santiago.miranda\source\repos\Seccion4\bin\Debug\netcoreapp3.1\Seccion4.runtimeconfig.json
+C:\Users\santiago.miranda\source\repos\Seccion4\bin\Debug\netcoreapp3.1\Seccion4.runtimeconfig.dev.json
+C:\Users\santiago.miranda\source\repos\Seccion4\bin\Debug\netcoreapp3.1\Seccion4.dll
+C:\Users\santiago.miranda\source\repos\Seccion4\bin\Debug\netcoreapp3.1\Seccion4.pdb
+C:\Users\santiago.miranda\source\repos\Seccion4\obj\Debug\netcoreapp3.1\Seccion4.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\Seccion4\obj\Debug\netcoreapp3.1\Seccion4.AssemblyInfoInputs.cache
+C:\Users\santiago.miranda\source\repos\Seccion4\obj\Debug\netcoreapp3.1\Seccion4.AssemblyInfo.cs
+C:\Users\santiago.miranda\source\repos\Seccion4\obj\Debug\netcoreapp3.1\Seccion4.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\Seccion4\obj\Debug\netcoreapp3.1\Seccion4.dll
+C:\Users\santiago.miranda\source\repos\Seccion4\obj\Debug\netcoreapp3.1\Seccion4.pdb
+C:\Users\santiago.miranda\source\repos\Seccion4\obj\Debug\netcoreapp3.1\Seccion4.genruntimeconfig.cache
