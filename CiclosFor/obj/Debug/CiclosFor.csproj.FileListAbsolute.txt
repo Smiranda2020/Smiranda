@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\CiclosFor\bin\Debug\CiclosFor.exe.config
+C:\Users\santiago.miranda\source\repos\CiclosFor\bin\Debug\CiclosFor.exe
+C:\Users\santiago.miranda\source\repos\CiclosFor\bin\Debug\CiclosFor.pdb
+C:\Users\santiago.miranda\source\repos\CiclosFor\obj\Debug\CiclosFor.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\CiclosFor\obj\Debug\CiclosFor.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\CiclosFor\obj\Debug\CiclosFor.exe
+C:\Users\santiago.miranda\source\repos\CiclosFor\obj\Debug\CiclosFor.pdb

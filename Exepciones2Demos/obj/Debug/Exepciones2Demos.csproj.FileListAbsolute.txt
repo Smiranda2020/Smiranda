@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\Exepciones2Demos\bin\Debug\Exepciones2Demos.exe.config
+C:\Users\santiago.miranda\source\repos\Exepciones2Demos\bin\Debug\Exepciones2Demos.exe
+C:\Users\santiago.miranda\source\repos\Exepciones2Demos\bin\Debug\Exepciones2Demos.pdb
+C:\Users\santiago.miranda\source\repos\Exepciones2Demos\obj\Debug\Exepciones2Demos.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\Exepciones2Demos\obj\Debug\Exepciones2Demos.exe
+C:\Users\santiago.miranda\source\repos\Exepciones2Demos\obj\Debug\Exepciones2Demos.pdb
+C:\Users\santiago.miranda\source\repos\Exepciones2Demos\obj\Debug\Exepciones2Demos.csprojAssemblyReference.cache

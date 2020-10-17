@@ -18,7 +18,27 @@ namespace Seccion5
             string texto2 = "y .Net";
             texto += texto2;
             Console.WriteLine(texto);
+
+            //ciclo while
+            int i = 0;
+            int suma = 0;
+            while( i <= 10)
+            {
+                suma += i;
+                i++;
+            }
+            string input = string.Empty;
+            while(input != "salir")
+            {
+                Console.WriteLine("Ejecutando");
+                input = Console.ReadLine();
+            }
+            Console.WriteLine(suma);
+
+            // ciclo for
+
             Console.ReadLine();
+
         }
     }
 }
