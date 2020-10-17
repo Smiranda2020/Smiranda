@@ -1,0 +1,6 @@
+C:\Users\santiago.miranda\source\repos\Seccion5\bin\Debug\Seccion5.exe.config
+C:\Users\santiago.miranda\source\repos\Seccion5\bin\Debug\Seccion5.exe
+C:\Users\santiago.miranda\source\repos\Seccion5\bin\Debug\Seccion5.pdb
+C:\Users\santiago.miranda\source\repos\Seccion5\obj\x86\Debug\Seccion5.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\Seccion5\obj\x86\Debug\Seccion5.exe
+C:\Users\santiago.miranda\source\repos\Seccion5\obj\x86\Debug\Seccion5.pdb
