@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\ClasesDemo1\bin\Debug\ClasesDemo1.exe.config
+C:\Users\santiago.miranda\source\repos\ClasesDemo1\bin\Debug\ClasesDemo1.exe
+C:\Users\santiago.miranda\source\repos\ClasesDemo1\bin\Debug\ClasesDemo1.pdb
+C:\Users\santiago.miranda\source\repos\ClasesDemo1\obj\Debug\ClasesDemo1.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\ClasesDemo1\obj\Debug\ClasesDemo1.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\ClasesDemo1\obj\Debug\ClasesDemo1.exe
+C:\Users\santiago.miranda\source\repos\ClasesDemo1\obj\Debug\ClasesDemo1.pdb

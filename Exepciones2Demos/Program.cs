@@ -20,6 +20,10 @@ namespace Exepciones2Demos
             {
                 Console.WriteLine(ex.Message);
             }
+            finally
+            {
+                Console.WriteLine("Bloque finally");
+            }
            
             Console.ReadLine();
         }
