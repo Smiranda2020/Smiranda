@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\EnumeracionesDemo\bin\Debug\EnumeracionesDemo.exe.config
+C:\Users\santiago.miranda\source\repos\EnumeracionesDemo\bin\Debug\EnumeracionesDemo.exe
+C:\Users\santiago.miranda\source\repos\EnumeracionesDemo\bin\Debug\EnumeracionesDemo.pdb
+C:\Users\santiago.miranda\source\repos\EnumeracionesDemo\obj\Debug\EnumeracionesDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\EnumeracionesDemo\obj\Debug\EnumeracionesDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\EnumeracionesDemo\obj\Debug\EnumeracionesDemo.exe
+C:\Users\santiago.miranda\source\repos\EnumeracionesDemo\obj\Debug\EnumeracionesDemo.pdb

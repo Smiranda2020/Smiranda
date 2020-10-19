@@ -1,0 +1,6 @@
+C:\Users\santiago.miranda\source\repos\EstructurasDemo\bin\Debug\EstructurasDemo.exe.config
+C:\Users\santiago.miranda\source\repos\EstructurasDemo\bin\Debug\EstructurasDemo.exe
+C:\Users\santiago.miranda\source\repos\EstructurasDemo\bin\Debug\EstructurasDemo.pdb
+C:\Users\santiago.miranda\source\repos\EstructurasDemo\obj\Debug\EstructurasDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\EstructurasDemo\obj\Debug\EstructurasDemo.exe
+C:\Users\santiago.miranda\source\repos\EstructurasDemo\obj\Debug\EstructurasDemo.pdb

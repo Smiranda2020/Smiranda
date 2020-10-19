@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\TiposValorTiposReferencia\bin\Debug\TiposValorTiposReferencia.exe.config
+C:\Users\santiago.miranda\source\repos\TiposValorTiposReferencia\bin\Debug\TiposValorTiposReferencia.exe
+C:\Users\santiago.miranda\source\repos\TiposValorTiposReferencia\bin\Debug\TiposValorTiposReferencia.pdb
+C:\Users\santiago.miranda\source\repos\TiposValorTiposReferencia\obj\Debug\TiposValorTiposReferencia.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\TiposValorTiposReferencia\obj\Debug\TiposValorTiposReferencia.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\TiposValorTiposReferencia\obj\Debug\TiposValorTiposReferencia.exe
+C:\Users\santiago.miranda\source\repos\TiposValorTiposReferencia\obj\Debug\TiposValorTiposReferencia.pdb
