@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\paramsDemo\bin\Debug\paramsDemo.exe.config
+C:\Users\santiago.miranda\source\repos\paramsDemo\bin\Debug\paramsDemo.exe
+C:\Users\santiago.miranda\source\repos\paramsDemo\bin\Debug\paramsDemo.pdb
+C:\Users\santiago.miranda\source\repos\paramsDemo\obj\Debug\paramsDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\paramsDemo\obj\Debug\paramsDemo.exe
+C:\Users\santiago.miranda\source\repos\paramsDemo\obj\Debug\paramsDemo.pdb
+C:\Users\santiago.miranda\source\repos\paramsDemo\obj\Debug\paramsDemo.csprojAssemblyReference.cache
