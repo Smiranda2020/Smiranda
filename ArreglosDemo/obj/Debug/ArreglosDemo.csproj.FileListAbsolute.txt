@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\ArreglosDemo\bin\Debug\ArreglosDemo.exe.config
+C:\Users\santiago.miranda\source\repos\ArreglosDemo\bin\Debug\ArreglosDemo.exe
+C:\Users\santiago.miranda\source\repos\ArreglosDemo\bin\Debug\ArreglosDemo.pdb
+C:\Users\santiago.miranda\source\repos\ArreglosDemo\obj\Debug\ArreglosDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\ArreglosDemo\obj\Debug\ArreglosDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\ArreglosDemo\obj\Debug\ArreglosDemo.exe
+C:\Users\santiago.miranda\source\repos\ArreglosDemo\obj\Debug\ArreglosDemo.pdb
