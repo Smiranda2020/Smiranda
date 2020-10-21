@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\HerenciaDemo\obj\Debug\HerenciaDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\HerenciaDemo\bin\Debug\HerenciaDemo.exe.config
+C:\Users\santiago.miranda\source\repos\HerenciaDemo\bin\Debug\HerenciaDemo.exe
+C:\Users\santiago.miranda\source\repos\HerenciaDemo\bin\Debug\HerenciaDemo.pdb
+C:\Users\santiago.miranda\source\repos\HerenciaDemo\obj\Debug\HerenciaDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\HerenciaDemo\obj\Debug\HerenciaDemo.exe
+C:\Users\santiago.miranda\source\repos\HerenciaDemo\obj\Debug\HerenciaDemo.pdb
