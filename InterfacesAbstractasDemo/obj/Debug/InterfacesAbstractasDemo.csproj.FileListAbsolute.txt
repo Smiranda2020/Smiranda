@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\InterfacesAbstractasDemo\bin\Debug\InterfacesAbstractasDemo.exe.config
+C:\Users\santiago.miranda\source\repos\InterfacesAbstractasDemo\bin\Debug\InterfacesAbstractasDemo.exe
+C:\Users\santiago.miranda\source\repos\InterfacesAbstractasDemo\bin\Debug\InterfacesAbstractasDemo.pdb
+C:\Users\santiago.miranda\source\repos\InterfacesAbstractasDemo\obj\Debug\InterfacesAbstractasDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\InterfacesAbstractasDemo\obj\Debug\InterfacesAbstractasDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\InterfacesAbstractasDemo\obj\Debug\InterfacesAbstractasDemo.exe
+C:\Users\santiago.miranda\source\repos\InterfacesAbstractasDemo\obj\Debug\InterfacesAbstractasDemo.pdb
