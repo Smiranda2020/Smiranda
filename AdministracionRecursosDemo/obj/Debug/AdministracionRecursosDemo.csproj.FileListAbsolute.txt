@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\AdministracionRecursosDemo\bin\Debug\AdministracionRecursosDemo.exe.config
+C:\Users\santiago.miranda\source\repos\AdministracionRecursosDemo\bin\Debug\AdministracionRecursosDemo.exe
+C:\Users\santiago.miranda\source\repos\AdministracionRecursosDemo\bin\Debug\AdministracionRecursosDemo.pdb
+C:\Users\santiago.miranda\source\repos\AdministracionRecursosDemo\obj\Debug\AdministracionRecursosDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\AdministracionRecursosDemo\obj\Debug\AdministracionRecursosDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\AdministracionRecursosDemo\obj\Debug\AdministracionRecursosDemo.exe
+C:\Users\santiago.miranda\source\repos\AdministracionRecursosDemo\obj\Debug\AdministracionRecursosDemo.pdb
