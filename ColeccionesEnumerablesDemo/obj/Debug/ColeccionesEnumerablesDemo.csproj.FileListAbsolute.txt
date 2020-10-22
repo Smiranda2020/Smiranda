@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\ColeccionesEnumerablesDemo\bin\Debug\ColeccionesEnumerablesDemo.exe.config
+C:\Users\santiago.miranda\source\repos\ColeccionesEnumerablesDemo\bin\Debug\ColeccionesEnumerablesDemo.exe
+C:\Users\santiago.miranda\source\repos\ColeccionesEnumerablesDemo\bin\Debug\ColeccionesEnumerablesDemo.pdb
+C:\Users\santiago.miranda\source\repos\ColeccionesEnumerablesDemo\obj\Debug\ColeccionesEnumerablesDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\ColeccionesEnumerablesDemo\obj\Debug\ColeccionesEnumerablesDemo.exe
+C:\Users\santiago.miranda\source\repos\ColeccionesEnumerablesDemo\obj\Debug\ColeccionesEnumerablesDemo.pdb
+C:\Users\santiago.miranda\source\repos\ColeccionesEnumerablesDemo\obj\Debug\ColeccionesEnumerablesDemo.csprojAssemblyReference.cache
