@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\DelegadosEventosDemo\bin\Debug\DelegadosEventosDemo.exe.config
+C:\Users\santiago.miranda\source\repos\DelegadosEventosDemo\bin\Debug\DelegadosEventosDemo.exe
+C:\Users\santiago.miranda\source\repos\DelegadosEventosDemo\bin\Debug\DelegadosEventosDemo.pdb
+C:\Users\santiago.miranda\source\repos\DelegadosEventosDemo\obj\Debug\DelegadosEventosDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\DelegadosEventosDemo\obj\Debug\DelegadosEventosDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\DelegadosEventosDemo\obj\Debug\DelegadosEventosDemo.exe
+C:\Users\santiago.miranda\source\repos\DelegadosEventosDemo\obj\Debug\DelegadosEventosDemo.pdb

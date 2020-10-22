@@ -20,6 +20,7 @@ namespace ColeccionesEnumerablesDemo
         }
         public IEnumerator<T> GetEnumerator()
         {
+            //Repasar implementacion 
             foreach(var dato in datos)
             {
                 yield return dato;
