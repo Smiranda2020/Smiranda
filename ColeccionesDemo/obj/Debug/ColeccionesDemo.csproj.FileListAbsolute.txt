@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\ColeccionesDemo\bin\Debug\ColeccionesDemo.exe.config
+C:\Users\santiago.miranda\source\repos\ColeccionesDemo\bin\Debug\ColeccionesDemo.exe
+C:\Users\santiago.miranda\source\repos\ColeccionesDemo\bin\Debug\ColeccionesDemo.pdb
+C:\Users\santiago.miranda\source\repos\ColeccionesDemo\obj\Debug\ColeccionesDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\ColeccionesDemo\obj\Debug\ColeccionesDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\ColeccionesDemo\obj\Debug\ColeccionesDemo.exe
+C:\Users\santiago.miranda\source\repos\ColeccionesDemo\obj\Debug\ColeccionesDemo.pdb
