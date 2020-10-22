@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\GenericDemo\bin\Debug\GenericDemo.exe.config
+C:\Users\santiago.miranda\source\repos\GenericDemo\bin\Debug\GenericDemo.exe
+C:\Users\santiago.miranda\source\repos\GenericDemo\bin\Debug\GenericDemo.pdb
+C:\Users\santiago.miranda\source\repos\GenericDemo\obj\Debug\GenericDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\GenericDemo\obj\Debug\GenericDemo.exe
+C:\Users\santiago.miranda\source\repos\GenericDemo\obj\Debug\GenericDemo.pdb
