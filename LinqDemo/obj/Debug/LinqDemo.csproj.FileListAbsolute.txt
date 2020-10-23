@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\Users\santiago.miranda\source\repos\LinqDemo\bin\Debug\LinqDemo.exe
+C:\Users\santiago.miranda\source\repos\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\Users\santiago.miranda\source\repos\LinqDemo\obj\Debug\LinqDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\LinqDemo\obj\Debug\LinqDemo.exe
+C:\Users\santiago.miranda\source\repos\LinqDemo\obj\Debug\LinqDemo.pdb
