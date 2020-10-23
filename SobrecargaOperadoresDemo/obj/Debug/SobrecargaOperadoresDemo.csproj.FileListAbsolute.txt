@@ -1,0 +1,7 @@
+C:\Users\santiago.miranda\source\repos\SobrecargaOperadoresDemo\obj\Debug\SobrecargaOperadoresDemo.csprojAssemblyReference.cache
+C:\Users\santiago.miranda\source\repos\SobrecargaOperadoresDemo\obj\Debug\SobrecargaOperadoresDemo.csproj.CoreCompileInputs.cache
+C:\Users\santiago.miranda\source\repos\SobrecargaOperadoresDemo\bin\Debug\SobrecargaOperadoresDemo.exe.config
+C:\Users\santiago.miranda\source\repos\SobrecargaOperadoresDemo\bin\Debug\SobrecargaOperadoresDemo.exe
+C:\Users\santiago.miranda\source\repos\SobrecargaOperadoresDemo\bin\Debug\SobrecargaOperadoresDemo.pdb
+C:\Users\santiago.miranda\source\repos\SobrecargaOperadoresDemo\obj\Debug\SobrecargaOperadoresDemo.exe
+C:\Users\santiago.miranda\source\repos\SobrecargaOperadoresDemo\obj\Debug\SobrecargaOperadoresDemo.pdb

@@ -216,7 +216,7 @@ namespace LinqDemo
             {
                 Console.WriteLine(fila);
             }
-            Queremos tomar 2 filas de estudiantes, salta 1 y tomar los siguintes 2 elementos
+           // Queremos tomar 2 filas de estudiantes, salta 1 y tomar los siguintes 2 elementos
             var est = estudiantes.Skip(1).Take(2);
             foreach (var e in est)
             {
